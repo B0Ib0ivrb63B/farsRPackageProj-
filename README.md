@@ -1,14 +1,9 @@
 # farsRPackageProj
----
+
 title: "Into to the farsRPackageProj"
 author: "CJ Muller"
-date: "`r Sys.Date()`"
-output: html_document
----
+date: 04-29-2018
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Purpose
 
