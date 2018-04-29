@@ -1,5 +1,5 @@
 ---
-title: "Into to the farsRPackageProj"
+title: "Introduction"
 author: "CJ Muller"
 date: "`r Sys.Date()`"
 output: html_document

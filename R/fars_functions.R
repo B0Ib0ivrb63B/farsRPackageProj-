@@ -73,7 +73,7 @@ make_filename <- function(year) {
 #' Administration's Fatality Analysis Reporting System.
 #' by individual file year, placing into a tibble (dataframe)
 #'
-#' @param year Integer list or vector of the year(s) desired
+#' @param years Integer list or vector of the year(s) desired
 #'
 #' @return A tibble: <number of rows> x 2 cols (MONTH and year)
 #'
@@ -119,7 +119,7 @@ fars_read_years <- function(years) {
 #' and summarize number of observations for each month over one or more years
 #' into a tibble (dataframe) 12 x <number of years>
 #'
-#' @param year Integer list or vector of the year(s) desired
+#' @param years Integer list or vector of the year(s) desired
 #'
 #' @return A tibble: 12 x <number of years> (MONTH, year1, year2, ...)
 #'
