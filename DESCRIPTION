@@ -12,7 +12,7 @@ License: CC0 License
 Encoding: UTF-8
 LazyData: true
 Imports:
-  magrittr, dplyr, maps, graphics, tidyr
+  magrittr, readr, dplyr, maps, graphics, tidyr
 RoxygenNote: 6.0.1
 Suggests: knitr,
     rmarkdown
