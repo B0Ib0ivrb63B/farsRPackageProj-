@@ -1,6 +1,5 @@
 # farsRPackageProj
 [![Travis-CI Build Status](https://travis-ci.org/B0Ib0ivrb63B/farsRPackageProj-.svg?branch=master)](https://travis-ci.org/B0Ib0ivrb63B/farsRPackageProj-)
- * Turn on travis for your repo at https://travis-ci.org/B0Ib0ivrb63B/farsRPackageProj-
 
 title: "Into to the farsRPackageProj"<br/>
 author: "CJ Muller"<br/>
