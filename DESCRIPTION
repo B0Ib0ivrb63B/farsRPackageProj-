@@ -1,0 +1,19 @@
+Package: farsRPackageProj
+Title: Plots data from US National Highway Traffic Safety Admin (fatalities).
+Version: 0.0.0.9000
+Authors@R: person("CJ", "Muller", email = "cjmsno@gmail.com", role = c("aut", "cre"))
+Description:
+  The package contains function and data from the US National Highway Traffic Safety 
+  Administration's Fatality Analysis Reporting System.  It plots the of observations for
+  the given year on a png state map based on latitude and longitude of the observations.
+  This is a peer-graded Assignment on the Coursera MOOC: 'Building an R Package'.
+Depends: R (>= 3.4.3)
+License: CC0 License
+Encoding: UTF-8
+LazyData: true
+Imports:
+  magrittr, dplyr, maps, graphics, tidyr
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
