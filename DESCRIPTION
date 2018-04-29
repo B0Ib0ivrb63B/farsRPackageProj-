@@ -8,12 +8,11 @@ Description:
   the given year on a png state map based on latitude and longitude of the observations.
   This is a peer-graded Assignment on the Coursera MOOC: 'Building an R Package'.
 Depends: R (>= 3.4.3)
-License: CC0 License
+License: MIT
 Encoding: UTF-8
 LazyData: true
 Imports:
   magrittr, readr, dplyr, maps, graphics, tidyr
 RoxygenNote: 6.0.1
-Suggests: knitr,
-    rmarkdown
+Suggests: knitr, rmarkdown, testthat
 VignetteBuilder: knitr
