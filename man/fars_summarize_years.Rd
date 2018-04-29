@@ -7,7 +7,7 @@
 fars_summarize_years(years)
 }
 \arguments{
-\item{year}{Integer list or vector of the year(s) desired}
+\item{years}{Integer list or vector of the year(s) desired}
 }
 \value{
 A tibble: 12 x <number of years> (MONTH, year1, year2, ...)

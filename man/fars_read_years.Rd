@@ -7,7 +7,7 @@
 fars_read_years(years)
 }
 \arguments{
-\item{year}{Integer list or vector of the year(s) desired}
+\item{years}{Integer list or vector of the year(s) desired}
 }
 \value{
 A tibble: <number of rows> x 2 cols (MONTH and year)
